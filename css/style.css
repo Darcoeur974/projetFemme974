@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+body button {
+    margin: 5px;
+    padding: 5px;
+    background-color: grey;
+    font-size: 2em;
+}
+
+body button:hover {
+    margin: 5px;
+    padding: 5px;
+    background-color: black;
+}
+
+body button a {
+    text-decoration: none;
+    color: white;
+}
+
+section {
+    margin: 25px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+section h2 {
+    margin: 25px;
+    padding: 10px;
+}
