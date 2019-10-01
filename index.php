@@ -1,6 +1,4 @@
 <?php
-include('inclusion/header.inc.php');
-include('inclusion/contenu.inc.php');
+include('php/miseEnPlace.inc.php');
 ?>
-
-
+<h1>PLOP!</h1>
