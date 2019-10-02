@@ -1,6 +1,6 @@
 /* ----------- COULEUR ----------- */
 
-:root {
+ :root {
     --vertFoncee: #67B35D;
     --vertClair: #C0FFB8;
     --vert: #A9FF9E;
@@ -11,6 +11,34 @@
 * {
     margin: 0px;
     padding: 0px;
+}
+
+
+/* ----------- FORMULAIRE ----------- */
+
+form {
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+form label,
+form input,
+form textarea {
+    margin-top: 15px;
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+}
+
+form button {
+    width: 100%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 25px;
 }
 
 
