@@ -60,59 +60,78 @@ footer ul {
     list-style: none;
 }
 
-
-/*bgnavbar*/
-.corpsnav {
-	background-image:radial-gradient(circle at center,#FF89D7,#B32B85);
-	height:700px;
+footer a {
+    color: var(--roseFoncee);
 }
-/* Navbar début*/
-.bmenu{
-    
+
+footer a:hover {
+    color: var(--rose);
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+
+/* ----------- bgnavbar ----------- */
+
+.corpsnav {
+    background-image: radial-gradient(circle at center, #FF89D7, #B32B85);
+    height: 700px;
+}
+
+
+/* ----------- Navbar début ----------- */
+
+.bmenu {
     padding: 0px;
     margin: 0 0 10px 0;
     position: relative;
 }
-.bmenu li{
-	font-family: 'qtpi', cursive;
+
+.bmenu li {
+    font-family: 'qtpi', cursive;
     font-size: 60px;
     display: block;
 }
-.bmenu li a{
-	text-decoration: none;
-	
-	
-	color: white;
-	display: block;
-	text-transform: uppercase;
-	text-shadow: 0px 0px 4px #fff;
-	letter-spacing: 1px;
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
-	-o-transition: all 0.2s ease-in-out;
-	-ms-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out;
-}
-.bmenu:hover li a{
-	text-shadow: 0px 0px 6px #fff;
-}
-.bmenu li a:hover{
-	color: #fff;
-	text-shadow: 0px 0px 1px #fff;
-	padding-left: 10px;
-}
-.menu{
-	padding-left:40%;
-	padding-top:8%;
-}
-@font-face {
-	font-family: qtpi;
-	src: url("https://zephyo.github.io/5fonts10hours/qtpi/qtpi.otf");
-  }
-.logo img{
-	margin-left:15%;
-width:10%;
-height:20%;
+
+.bmenu li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 4px #fff;
+    letter-spacing: 1px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
 }
 
-/*Navbar fin*/
+.bmenu:hover li a {
+    text-shadow: 0px 0px 6px #fff;
+}
+
+.bmenu li a:hover {
+    color: #fff;
+    text-shadow: 0px 0px 1px #fff;
+    padding-left: 10px;
+}
+
+.menu {
+    padding-left: 40%;
+    padding-top: 8%;
+}
+
+@font-face {
+    font-family: qtpi;
+    src: url("https://zephyo.github.io/5fonts10hours/qtpi/qtpi.otf");
+}
+
+.logo img {
+    margin-left: 15%;
+    width: 10%;
+    height: 20%;
+}
+
+
+/* ----------- Navbar fin ----------- */
