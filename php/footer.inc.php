@@ -17,6 +17,7 @@
                     <li><a href="#">Contact</a></li>
                     <li><a href="#">CGU</a></li>
                     <li><a href="#">Politique de confidentialité</a></li>
+                    <li><a href="#">Adhérer au projet</a></li>
                 </ul>
             </div>
             <div class="col-6">

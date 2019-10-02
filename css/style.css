@@ -54,22 +54,30 @@ footer {
 
 footer img {
     margin: 5px;
+    border-radius: 25%;
+    box-shadow: 1px 1px 5px var(--vertFoncee);
 }
 
 footer ul {
     list-style: none;
 }
 
+footer li {
+    margin: 5px;
+}
+
 footer a {
-    color: var(--roseFoncee);
+    color: var(--rose);
+    text-shadow: 1px 1px 1px var(--vert);
 }
 
 footer a:hover {
-    color: var(--rose);
+    color: var(--roseFoncee);
     text-decoration: none;
     margin-left: -10px;
     font-size: 1.2em;
     transition: 0.5s;
+    text-shadow: 1px 1px 2px var(--vertFoncee);
 }
 
 
