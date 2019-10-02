@@ -1,8 +1,31 @@
-/*  COULEUR */
+/* ----------- COULEUR ----------- */
+
 :root {
-    --vertFoncee : #67B35D;
-    --vertClair : #C0FFB8;
-    --vert : #A9FF9E;
-    --roseFoncee : #B32B85;
-    --rose : #FF89D7;
+    --vertFoncee: #67B35D;
+    --vertClair: #C0FFB8;
+    --vert: #A9FF9E;
+    --roseFoncee: #B32B85;
+    --rose: #FF89D7;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* ----------- FOOTER ----------- */
+
+footer {
+    width: auto;
+    min-height: 30vh;
+    background-color: var(--vertClair);
+}
+
+footer img {
+    margin: 5px;
+}
+
+footet ul {
+    list-style: none;
 }
