@@ -20,9 +20,13 @@ form {
     width: 50%;
     margin-right: 25%;
     margin-left: 25%;
+    padding: 25px;
+    margin-bottom: 25px;
     height: auto;
     display: flex;
     flex-direction: column;
+    box-shadow: 0 0 10px black;
+    border-radius: 25%;
 }
 
 form label,
