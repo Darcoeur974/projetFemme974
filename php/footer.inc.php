@@ -38,18 +38,24 @@
                 <div class="row">
                     <div class="col-3">
                         <img src="https://via.placeholder.com/124x90.png" alt="">
-                </div>
+                    </div>
                     <div class="col-3">
                         <img src="https://via.placeholder.com/124x90.png" alt="">
-                </div>
+                    </div>
                     <div class="col-3">
                         <img src="https://via.placeholder.com/124x90.png" alt="">
-                </div>
+                    </div>
                     <div class="col-3">
                         <img src="https://via.placeholder.com/124x90.png" alt="">
-                </div>
+                    </div>
                 </div>
             </div>
+        </div>
+        <div class="row justify-content-center pt-3 pb-1">
+            <small>Association enregistrée à la préfecture de la Réunion sous le n°w9r4002385</small>
+        </div>
+        <div class="row justify-content-center pt-1 pb-2">
+            <small>SIRET 534 792 643 00015</small>
         </div>
         <hr class="mb-3 mt-3">
         <div class="row">
