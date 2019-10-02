@@ -1,17 +1,26 @@
 <footer>
-    <h3>FOOTER</h3>
     <div class="container">
         <div class="row">
-            <div class="col-6">
+            <div class="col-3">
+            <h5>Menu</h5>
                 <ul>
-                    <li><a href="">Menue #</a></li>
-                    <li><a href="">Menue #</a></li>
-                    <li><a href="">Menue #</a></li>
-                    <li><a href="">Menue #</a></li>
-                    <li><a href="">Menue #</a></li>
+                    <li><a href="#">Menue #</a></li>
+                    <li><a href="#">Menue #</a></li>
+                    <li><a href="#">Menue #</a></li>
+                    <li><a href="#">Menue #</a></li>
+                    <li><a href="#">Menue #</a></li>
+                </ul>
+            </div>
+            <div class="col-3">
+                <h5>Lien utile</h5>
+                <ul>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">CGU</a></li>
+                    <li><a href="#">Politique de confidentialité</a></li>
                 </ul>
             </div>
             <div class="col-6">
+                <h5>Partenaire</h5>
                 <div class="row">
                     <div class="col-3">
                         <img src="https://via.placeholder.com/124x90.png" alt="">
@@ -40,6 +49,12 @@
                         <img src="https://via.placeholder.com/124x90.png" alt="">
                 </div>
                 </div>
+            </div>
+        </div>
+        <hr class="mb-3 mt-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <small>© BABOOK TEAM alias InTiDeTour.re</small>
             </div>
         </div>
     </div>

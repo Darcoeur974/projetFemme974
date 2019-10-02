@@ -17,6 +17,8 @@
 /* ----------- FOOTER ----------- */
 
 footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
     width: auto;
     min-height: 30vh;
     background-color: var(--vertClair);
@@ -26,6 +28,6 @@ footer img {
     margin: 5px;
 }
 
-footet ul {
+footer ul {
     list-style: none;
 }
