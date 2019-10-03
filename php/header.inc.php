@@ -12,7 +12,7 @@
 </head>
 
 <header>
-<div class="bandeau img-fluid">
-    <div class="bandeauNoir"></div>
+<div class="bandeau">
+    <h1>Femmes 974</h1>
 </div>
 </header>

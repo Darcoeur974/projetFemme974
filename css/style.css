@@ -56,6 +56,55 @@
 }
 
 
+/************* Header *****************/
+
+.bandeau {
+    background: url("../img/carousel/bgimgV05.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+@media (min-width: 1001px) {
+    .bandeau {
+        max-width: 100%;
+        height: 100vh;
+    }
+}
+
+@media (max-width: 1000px) {
+    .bandeau {
+        max-width: 100vh;
+        height: 50vh;
+    }
+}
+
+.bandeau>h1 {
+    font-family: 'Mansalva';
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .7);
+}
+
+@media (min-width: 1001px) {
+    .bandeau>h1 {
+        font-size: 30vh;
+        padding-top: 30vh;
+        height: 100vh;
+    }
+}
+
+@media (max-width: 1000px) {
+    .bandeau>h1 {
+        font-size: 13vh;
+        padding-top: 10vh;
+        height: 50vh;
+    }
+}
+
+
+/************* /Header *****************/
+
+
 /* ----------- FORMULAIRE ----------- */
 
 form {
