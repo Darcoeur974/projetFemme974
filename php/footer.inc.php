@@ -20,28 +20,34 @@
                     <li><a href="#">Adhérer au projet</a></li>
                 </ul>
             </div>
-            <div class="col-6">
+            <div class="col-6 imgPartenaire">
                 <h5>Partenaire</h5>
                 <div class="row">
                     <div class="col-3">
-                        <img src="https://via.placeholder.com/124x90.png" alt="">
+                        <a href="https://www.facebook.com/pages/category/Charity-Organization/Association-AFECT-442402822969402/">
+                            <img src="img/partenaires/afectLogo.jpg" alt="afect page Facebook">
+                        </a>                        
                     </div>
                     <div class="col-3">
-                        <img src="https://via.placeholder.com/124x90.png" alt="">
+                        <a href="https://www.facebook.com/defisdefemmes/">
+                            <img src="img/partenaires/ddfLogo.jpg" alt="défis de femmes">
+                        </a>                        
                     </div>
                     <div class="col-3">
-                        <img src="https://via.placeholder.com/124x90.png" alt="">
+                        <img src="img/partenaires/drdfeLogo.jpg" alt="delegation regionale aux droit des femmes et a l'égalité">
                     </div>
                     <div class="col-3">
-                        <img src="https://via.placeholder.com/124x90.png" alt="">
+                        <a href="http://www.efticoi.net/">
+                            <img src="img/partenaires/efticoiLogo.jpg" alt="efticoi">
+                        </a>                        
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-3">
-                        <img src="https://via.placeholder.com/124x90.png" alt="">
+                        <img src="img/partenaires/unknownLogo.jpg" alt="inconnue">
                     </div>
                     <div class="col-3">
-                        <img src="https://via.placeholder.com/124x90.png" alt="">
+                        <img src="img/partenaires/rfLogo.jpg" alt="république Française">
                     </div>
                     <div class="col-3">
                         <img src="https://via.placeholder.com/124x90.png" alt="">
