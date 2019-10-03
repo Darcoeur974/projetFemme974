@@ -10,3 +10,9 @@
     <link href="https://fonts.googleapis.com/css?family=Handlee|Indie+Flower|Mansalva&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/3227ebb15b.js" crossorigin="anonymous"></script>
 </head>
+
+<header>
+<div class="bandeau img-fluid">
+    <div class="bandeauNoir"></div>
+</div>
+</header>
