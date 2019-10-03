@@ -1,6 +1,6 @@
 <section class="contenu_carte">
     <div class="container">
-        <div class="row">
+        <div class="row titre_card">
             <h2>Documents - Actualités</h2>
         </div>
         <div class="row">
@@ -9,12 +9,12 @@
                     <div class="row">
                         <div class="col-3">
                             <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                                <a class="nav-link active" id="v-pills-Acceuil-tab" data-toggle="pill" href="#v-pills-Acceuil" role="tab" aria-controls="v-pills-Acceuil" aria-selected="true"><h5>Une ASSOCIATION qui fait quoi ?</h5></a>
-                                <a class="nav-link" id="v-pills-violence-tab" data-toggle="pill" href="#v-pills-violence" role="tab" aria-controls="v-pills-violence" aria-selected="false">VICTIME DE VIOLENCE ?</a>
-                                <a class="nav-link" id="v-pills-maltraitance-tab" data-toggle="pill" href="#v-pills-maltraitance" role="tab" aria-controls="v-pills-maltraitance" aria-selected="false">VICTIME DE MALTRAITANCE ?</a>
-                                <a class="nav-link" id="v-pills-afect-tab" data-toggle="pill" href="#v-pills-afect" role="tab" aria-controls="v-pills-afect" aria-selected="false">L'ASSOCIATION AFECT</a>
-                                <a class="nav-link" id="v-pills-rdfer-tab" data-toggle="pill" href="#v-pills-rdfer" role="tab" aria-controls="v-pills-rdfer" aria-selected="false">LE SERVICE RÉGIONAL DES DROITS DES FEMMES et DE L'ÉGALITÉ DE LA RÉUNION</a>
-                                <a class="nav-link" id="v-pills-sexeiste-tab" data-toggle="pill" href="#v-pills-sexeiste" role="tab" aria-controls="v-pills-sexeiste" aria-selected="false">COMMUNIQUEZ SANS STÉRÉOTYPES SEXISTES</a>
+                                <a class="nav-link active" id="v-pills-Acceuil-tab" data-toggle="pill" href="#v-pills-Acceuil" role="tab" aria-controls="v-pills-Acceuil" aria-selected="true">Notre mission</a>
+                                <a class="nav-link" id="v-pills-violence-tab" data-toggle="pill" href="#v-pills-violence" role="tab" aria-controls="v-pills-violence" aria-selected="false">Victime de violence ?</a>
+                                <a class="nav-link" id="v-pills-maltraitance-tab" data-toggle="pill" href="#v-pills-maltraitance" role="tab" aria-controls="v-pills-maltraitance" aria-selected="false">Victime de maltraitance ?</a>
+                                <a class="nav-link" id="v-pills-afect-tab" data-toggle="pill" href="#v-pills-afect" role="tab" aria-controls="v-pills-afect" aria-selected="false">L'association AFECT</a>
+                                <a class="nav-link" id="v-pills-rdfer-tab" data-toggle="pill" href="#v-pills-rdfer" role="tab" aria-controls="v-pills-rdfer" aria-selected="false">la DRDFE</a>
+                                <a class="nav-link" id="v-pills-sexeiste-tab" data-toggle="pill" href="#v-pills-sexeiste" role="tab" aria-controls="v-pills-sexeiste" aria-selected="false">Communiquez sans stéréotypes sexistes</a>
                             </div>
                         </div>
                         <div class="col-9">

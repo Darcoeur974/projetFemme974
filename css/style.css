@@ -55,6 +55,23 @@
     padding: 0px;
 }
 
+p,
+ul,
+li,
+a {
+    font-family: 'Handlee';
+    font-size: 1.1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Mansalva'
+}
+
 
 /************* Header *****************/
 
@@ -203,28 +220,113 @@ footer a:hover {
     background-color: var(--vertFoncee);
 }
 
-.contenu_carte .row {
-    margin: 0;
-    padding: 0;
+.contenu_carte .container {
+    justify-content: center;
 }
 
-.contenu_carte h2 {}
+.contenu_carte .card {
+    background-color: var(--vertClair);
+}
 
-.contenu_carte .col-sm-6 {
+.contenu_carte .col-9 {
+    background-color: rgb(223, 255, 219);
+    height: 100%;
+}
+
+.contenu_carte .nav-link {
+    color: var(--roseFoncee);
+    font-size: 1.2em;
+    transition: 0.5s;
+}
+
+.contenu_carte .nav-link:focus {
+    color: white;
+    background-color: var(--rose);
+    transition: 0.5s;
+}
+
+.contenu_carte .nav-link.active {
+    color: var(--roseFoncee);
+    background-color: var(--rose);
+    transition: 0.5s;
+}
+
+.contenu_carte .nav-link:hover {
+    color: var(--vert);
+    background-color: var(--vertFoncee);
+    border: 1px var(--vert) solid;
+    transition: 0.5s;
+}
+
+.contenu_carte .row {
     margin: 0;
     padding: 0;
 }
 
 .card {
     margin: 5px;
+    min-width: 100%;
+    min-height: 550px;
 }
 
 .card ul,
 .card li {
     list-style: none;
+    font-size: 1em;
 }
 
 .card-body {
     width: 100%;
     min-height: 25vh;
+    margin: 0;
+    padding: 0;
+}
+
+.card-body .row {
+    height: 550px;
+}
+
+.card-body .row .col-3 {
+    padding: 20px;
+}
+
+.card-body .row .col-9 {
+    padding: 20px;
+}
+
+.tab-content {
+    padding: 15px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.tab-pane {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: auto;
+    width: 100%;
+}
+
+.titre_card {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.titre_card h2 {
+    color: var(--vert);
+    text-shadow: 0 0 5px var(--roseFoncee);
+    padding: 15px;
+    padding-top: 30px;
+    font-size: 2.5em;
+    transition: 0.5s;
+}
+
+.titre_card h2:hover {
+    color: var(--roseFoncee);
+    text-shadow: 0 0 5px var(--vert);
+    transition: 0.5s;
 }
