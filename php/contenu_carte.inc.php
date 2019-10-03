@@ -1,6 +1,6 @@
 <section class="contenu_carte">
     <div class="container">
-        <div class="row">
+        <div class="row titre_card">
             <h2>Documents - Actualités</h2>
         </div>
         <div class="row">
