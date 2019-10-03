@@ -55,6 +55,11 @@
     padding: 0px;
 }
 
+body {
+    width: 100%;
+    height: auto;
+}
+
 p,
 ul,
 li,
@@ -73,52 +78,90 @@ h6 {
 }
 
 
-/************* Header *****************/
+/* ----------- Header ----------- */
 
 .bandeau {
     background: url("../img/carousel/bgimgV05.jpg");
 }
-/*PC*/
-@media (min-width: 1000px) {
-    .bandeau {
-        width: 100%;
-       
-    }
-}
-/*smartphone*/
-@media (max-width: 375px) {
-    .bandeau {
-        max-width:100%;
-        height: 10vh;
-        
-    }
+
+.bandeau div {
+    background-color: rgba(0, 0, 0, .7);
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: 100%;
+    display: flex;
+    justify-content: center;
 }
 
-.bandeau>h1 {
+.bandeau h1 {
     font-family: 'Mansalva';
     color: white;
-    text-align: center;
-    background-color: rgba(0, 0, 0, .7);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    top: 10px;
+    margin-top: -25px;
 }
 
-@media (min-width: 1001px) {
-    .bandeau>h1 {
+.bandeau h1 strong {
+    color: var(--rose);
+}
+
+.animation {
+    animation: animate 3s linear infinite;
+}
+
+@keyframes animate {
+    0%,
+    20% {
+        color: var(--rose);
+    }
+    50% {
+        filter: hue-rotate(.5turn);
+    }
+    90%,
+    100% {
+        color: var(--rose);
+    }
+}
+
+@media (min-width: 1601px) {
+    .bandeau h1 {
         font-size: 30vh;
-        padding-top: 30vh;
+        height: 100%;
+    }
+    .bandeau {
+        max-width: 100%;
         height: 100vh;
+        width: auto;
     }
 }
 
-@media (max-width: 1000px) {
-    .bandeau>h1 {
-        font-size: 13vh;
-        padding-top: 15vh;
-        height: 50vh;
+@media (max-width: 1600px) {
+    .bandeau h1 {
+        font-size: 15vh;
+        height: 100%;
+    }
+    .bandeau {
+        max-width: 100%;
+        height: 100vh;
+        width: auto;
     }
 }
 
-
-/************* /Header *****************/
+@media (max-width: 600px) {
+    .bandeau h1 {
+        font-size: 10vh;
+        height: 100%;
+    }
+    .bandeau {
+        max-width: 100%;
+        height: 100vh;
+        width: auto;
+    }
+}
 
 
 /* ----------- FORMULAIRE ----------- */
@@ -162,7 +205,6 @@ footer {
     width: auto;
     min-height: 30vh;
     background-color: var(--vertClair);
-    
 }
 
 footer img {
