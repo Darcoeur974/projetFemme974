@@ -1,3 +1,3 @@
 <?php
- include('php/partie_Un.inc.php');
+    include('php/contenu_carte.inc.php');
 ?>

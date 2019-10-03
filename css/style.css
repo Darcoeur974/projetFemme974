@@ -129,6 +129,7 @@ footer a:hover {
 
 
 /************* Header *****************/
+
 .bandeau {
     background: url("../img/carousel/bgimgV05.jpg");
     max-width: 100%;
@@ -138,9 +139,45 @@ footer a:hover {
     height: 100vh;
 }
 
-.bandeauNoir{
-    background-color: rgba(0, 0, 0,.7);
+.bandeauNoir {
+    background-color: rgba(0, 0, 0, .7);
     height: 100vh;
 }
 
+
 /******************************* test pull push ******************/
+
+
+/* ----------- CONTENU ----------- */
+
+.contenu_carte {
+    min-height: 100vh;
+    padding: 15px;
+    background-color: var(--vertFoncee);
+}
+
+.contenu_carte .row {
+    margin: 0;
+    padding: 0;
+}
+
+.contenu_carte h2 {}
+
+.contenu_carte .col-sm-6 {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    margin: 5px;
+}
+
+.card ul,
+.card li {
+    list-style: none;
+}
+
+.card-body {
+    width: 100%;
+    min-height: 25vh;
+}
