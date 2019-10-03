@@ -4,11 +4,11 @@
             <div class="col-3">
             <h5>Menu</h5>
                 <ul>
-                    <li><a href="#">Menue #</a></li>
-                    <li><a href="#">Menue #</a></li>
-                    <li><a href="#">Menue #</a></li>
-                    <li><a href="#">Menue #</a></li>
-                    <li><a href="#">Menue #</a></li>
+                    <li><a href="#">Menu #</a></li>
+                    <li><a href="#">Menu #</a></li>
+                    <li><a href="#">Menu #</a></li>
+                    <li><a href="#">Menu #</a></li>
+                    <li><a href="#">Menu #</a></li>
                 </ul>
             </div>
             <div class="col-3">
