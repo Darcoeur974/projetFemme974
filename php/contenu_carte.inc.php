@@ -36,7 +36,7 @@
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-maltraitance" role="tabpanel" aria-labelledby="v-pills-maltraitance-tab">
                                     <p>Faites vous aider par des professionnels : NUMEROS UTILES SUR LA PLAQUETTE ORVIFF</p>
-                                    <a href="#" class="btn btn-primary">À TÉLÉCHARGER ICI</a>
+                                    <a href="#" class="btn btn-green">À TÉLÉCHARGER ICI</a>
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-afect" role="tabpanel" aria-labelledby="v-pills-afect-tab">
                                     <p>notre partenaire direct pour la lutte contre les violences faites aux femmes. Elle organise des groupes de parole : APPELEZ au 0692 617 659 Mme Rolande CAZAL est la présidente.</p>
@@ -46,7 +46,7 @@
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-sexeiste" role="tabpanel" aria-labelledby="v-pills-sexeiste-tab">
                                     <p>Télécharger les bonnes pratiques</p>
-                                    <a href="#" class="btn btn-primary">À TÉLÉCHARGER ICI</a>
+                                    <a href="#" class="btn btn-green">À TÉLÉCHARGER ICI</a>
                                 </div>
                             </div>
                         </div>
