@@ -1,0 +1,22 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 10:13:13] 7 files total
+[Info  - 10:13:13] Indexing project for definitions and static references
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/contenu.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/formulaire.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/footer.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/header.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/navBar.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/post_contact.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/index.php
+[Info  - 10:13:13] Indexing project for dynamic references
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/contenu.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/formulaire.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/footer.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/header.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/navBar.inc.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/php/post_contact.php
+Parsing file:///opt/lampp/htdocs/www/projet/projetFemme974/index.php
+[Info  - 10:13:13] 0 Packages
+[Info  - 10:13:13] All 7 PHP files parsed in 0 seconds. 170 MiB allocated.
