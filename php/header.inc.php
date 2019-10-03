@@ -12,7 +12,9 @@
 </head>
 
 <header>
-<div class="bandeau">
-    <h1>Femmes 974</h1>
-</div>
+    <div class="bandeau">
+        <div>
+            <h1><strong>F</strong>emmes<strong class="animation">974</strong></h1>
+        </div>
+    </div>
 </header>
