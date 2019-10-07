@@ -12,6 +12,7 @@
 </head>
 
 <header>
+<<<<<<< HEAD
 <div class="bandeau">
 <button class ="btn" data-effect="st-effect-6">Menu</button>
     <h1>Femmes 974</h1>
@@ -41,3 +42,11 @@ function topFunction() {
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 </script>
+=======
+    <div class="bandeau">
+        <div>
+            <h1><strong>F</strong>emmes<strong class="animation">974</strong></h1>
+        </div>
+    </div>
+</header>
+>>>>>>> 2788f152761a709f1dec589878efb593b965a2b9
