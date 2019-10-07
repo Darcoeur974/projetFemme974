@@ -20,6 +20,7 @@
 
 </header>  
 <button onclick="topFunction()" id="top" title="Go to top">Top</button>
+
 <script>
     //Get the button:
 mybutton = document.getElementById("top");
