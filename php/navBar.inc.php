@@ -1,7 +1,7 @@
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-<a class="navbar-brand" href="#">Logo</a>
-  <ul class="navbar-nav">
+<nav class="navbar navbar-expand-sm bg-notre fixed-top">
+<a class="navbar-titre" href="#">Femmes<strong class="animation">974</strong></a>
+  <ul class="navbar-nav text-right">
     <li class="nav-item">
       <a class="nav-link" href="#">Historique</a>
     </li>
