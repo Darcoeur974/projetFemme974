@@ -14,7 +14,8 @@
 <header>
     <div class="bandeau">
         <div>
-            <h1><strong>F</strong>emmes<strong class="animation">974</strong></h1>
+            <h1>Femmes<strong class="animation">974</strong></h1>
+            <small>" Ne laissez jamais vos peurs vous empêcher de faire ce que vous savez juste "<br/><strong>Aung San Suu Kyi</strong></small>
         </div>
     </div>
 </header>
