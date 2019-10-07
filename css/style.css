@@ -327,10 +327,21 @@ footer a:hover {
 
 .tab-pane {
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    flex-direction: row;
+    justify-content: center;
     height: auto;
     width: 100%;
+}
+
+.tab-pane p {
+    display: flex;
+    justify-content: center;
+}
+
+.tab-pane a {
+    justify-content: center;
+    width: 50%;
+    margin-left: 25%;
 }
 
 .titre_card {
@@ -355,7 +366,7 @@ footer a:hover {
     transition: 0.5s;
 }
 
-.btn-green{
+.btn-green {
     background-color: var(--vertFoncee);
     border-color: var(--vertFoncee);
 }
