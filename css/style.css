@@ -197,7 +197,7 @@ section {
     }
 }
 
-small {
+.bandeau small {
     color: white;
     text-shadow: 3px 3px 3px var(--roseFoncee)
 }
@@ -276,6 +276,17 @@ footer a:hover {
 
 
 /* ----------- CONTENU ----------- */
+
+.btn {
+    background-color: var(--vertFoncee);
+    padding: 5px;
+}
+
+.btn:hover {
+    background-color: var(--vert);
+    border: .5px solid var(--vertFoncee);
+    padding: 5px;
+}
 
 .contenu_carte {
     position: relative;
