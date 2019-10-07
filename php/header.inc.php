@@ -12,9 +12,35 @@
 </head>
 
 <header>
-    <div class="bandeau">
-        <div>
-            <h1><strong>F</strong>emmes<strong class="animation">974</strong></h1>
-        </div>
+<div class="bandeau">
+    <button class ="btn" data-effect="st-effect-6">Menu</button>
+    <div>
+        <h1>Femmes <strong class="animation">974</strong></h1>
+        <small>"Ne laissez jamais vos peurs vous empêcher de faire ce que vous savez juste"<strong>Aung San Suu Kyi</strong></small>
     </div>
-</header>
+</div>
+
+</header>  
+<button onclick="topFunction()" id="top" title="Go to top">Top</button>
+
+<script>
+    //Get the button:
+mybutton = document.getElementById("top");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+</script>

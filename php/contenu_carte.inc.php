@@ -1,3 +1,4 @@
+
 <section class="contenu_carte">
     <div class="container">
         <div class="row titre_card">
@@ -15,6 +16,7 @@
                                 <a class="nav-link" id="v-pills-afect-tab" data-toggle="pill" href="#v-pills-afect" role="tab" aria-controls="v-pills-afect" aria-selected="false">L'association AFECT</a>
                                 <a class="nav-link" id="v-pills-rdfer-tab" data-toggle="pill" href="#v-pills-rdfer" role="tab" aria-controls="v-pills-rdfer" aria-selected="false">la DRDFE</a>
                                 <a class="nav-link" id="v-pills-sexeiste-tab" data-toggle="pill" href="#v-pills-sexeiste" role="tab" aria-controls="v-pills-sexeiste" aria-selected="false">Communiquez sans stéréotypes sexistes</a>
+                                <a class="nav-link" id="v-pills-sexeiste-tab" data-toggle="pill" href="#v-pills-adherer" role="tab" aria-controls="v-pills-adherer" aria-selected="false">Soutennez la cause</a>
                             </div>
                         </div>
                         <div class="col-9">
@@ -32,21 +34,25 @@
                                 </p>
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-violence" role="tabpanel" aria-labelledby="v-pills-violence-tab">
-                                    <p>Qui contacter ? N'hésitez pas à appeler le <strong>3 9 1 9</strong></p>
+                                    <p>Qui contacter ? N'hésitez pas à appeler le  <strong>3919</strong></p>
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-maltraitance" role="tabpanel" aria-labelledby="v-pills-maltraitance-tab">
                                     <p>Faites vous aider par des professionnels : NUMEROS UTILES SUR LA PLAQUETTE ORVIFF</p>
                                     <a href="#" class="btn btn-green">À TÉLÉCHARGER ICI</a>
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-afect" role="tabpanel" aria-labelledby="v-pills-afect-tab">
-                                    <p>notre partenaire direct pour la lutte contre les violences faites aux femmes. Elle organise des groupes de parole : APPELEZ au 0692 617 659 Mme Rolande CAZAL est la présidente.</p>
+                                    <p>Notre partenaire direct pour la lutte contre les violences faites aux femmes.<br /> Elle organise des groupes de parole : APPELEZ au 0692 617 659 Mme Rolande CAZAL est la présidente.</p>
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-rdfer" role="tabpanel" aria-labelledby="v-pills-rdfer-tab">
-                                    <p>contacter le 0262 40 78 39 - situé à Saint Denis Préfecture</p>
+                                    <p>Contacter le 0262 40 78 39 - situé à Saint Denis Préfecture</p>
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-sexeiste" role="tabpanel" aria-labelledby="v-pills-sexeiste-tab">
                                     <p>Télécharger les bonnes pratiques</p>
                                     <a href="#" class="btn btn-green">À TÉLÉCHARGER ICI</a>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-adherer" role="tabpanel" aria-labelledby="v-pills-adherer-tab">
+                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto esse numquam dolores in eveniet porro possimus ullam. Ipsum vel voluptates nemo, ratione, assumenda, veniam aliquid et modi exercitationem quod quam.</p>
+                                    <a href="https://www.helloasso.com/associations/femmes-974/adhesions/femmes974-adhesions-2016" class="btn btn-green">ADHÉRER</a>
                                 </div>
                             </div>
                         </div>
