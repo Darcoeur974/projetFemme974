@@ -12,15 +12,15 @@
 </head>
 
 <header>
-<<<<<<< HEAD
-<div class="bandeau">
-<button class ="btn" data-effect="st-effect-6">Menu</button>
-    <h1>Femmes 974</h1>
-    
-</div>
-
+    <div class="bandeau">
+        <div>
+            <h1>Femmes<strong class="animation">974</strong></h1>
+            <small>" Ne laissez jamais vos peurs vous empêcher de faire ce que vous savez juste "<br/><strong>Aung San Suu Kyi</strong></small>
+        </div>
+    </div>
 </header>  
 <button onclick="topFunction()" id="top" title="Go to top">Top</button>
+
 <script>
     //Get the button:
 mybutton = document.getElementById("top");
@@ -42,12 +42,3 @@ function topFunction() {
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 </script>
-=======
-    <div class="bandeau">
-        <div>
-            <h1>Femmes<strong class="animation">974</strong></h1>
-            <small>" Ne laissez jamais vos peurs vous empêcher de faire ce que vous savez juste "<br/><strong>Aung San Suu Kyi</strong></small>
-        </div>
-    </div>
-</header>
->>>>>>> 2788f152761a709f1dec589878efb593b965a2b9
