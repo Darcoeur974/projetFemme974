@@ -15,7 +15,8 @@
 <div class="bandeau">
     <button class ="btn" data-effect="st-effect-6">Menu</button>
     <div>
-        <h1>Femmes 974</h1>
+        <h1>Femmes <strong class="animation">974</strong></h1>
+        <small>"Ne laissez jamais vos peurs vous empêcher de faire ce que vous savez juste"<strong>Aung San Suu Kyi</strong></small>
     </div>
 </div>
 
