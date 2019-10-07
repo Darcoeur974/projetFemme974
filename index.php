@@ -1,5 +1,6 @@
 <?php
 include('php/header.inc.php');?>
+<?php include('php/navBar.inc.php');?>
 <div id="DIVID">
   <?php
   include('php/contenu.inc.php');
