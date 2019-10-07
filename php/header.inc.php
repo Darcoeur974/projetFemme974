@@ -13,9 +13,10 @@
 
 <header>
 <div class="bandeau">
-<button class ="btn" data-effect="st-effect-6">Menu</button>
-    <h1>Femmes 974</h1>
-    
+    <button class ="btn" data-effect="st-effect-6">Menu</button>
+    <div>
+        <h1>Femmes 974</h1>
+    </div>
 </div>
 
 </header>  
