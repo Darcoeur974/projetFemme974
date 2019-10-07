@@ -23,13 +23,13 @@
                         <div class="col-9">
                             <div class="tab-content-2" id="v-pills-tabContent">
                                 <!-- 2019 -->
-                                <div class="tab-pane fade show active scroll" id="v-pills-2019" role="tabpanel" aria-labelledby="v-pills-2019-tab">                                
+                                <div class="tab-pane2 fade show active scroll" id="v-pills-2019" role="tabpanel" aria-labelledby="v-pills-2019-tab">                                
                                 <p class="card-text">
                                     Contenue en cours d'actualisation.
                                 </p>
                                 </div>
                                 <!-- 2018 -->
-                                <div class="tab-pane fade scroll" id="v-pills-2018" role="tabpanel" aria-labelledby="v-pills-2018-tab">
+                                <div class="tab-pane2 fade scroll" id="v-pills-2018" role="tabpanel" aria-labelledby="v-pills-2018-tab">
                                     <div>
                                         <p>
                                             <strong>24 novembre</strong><br>
@@ -128,7 +128,7 @@
                                    
                                 </div>
                                 <!-- 2017 -->
-                                <div class="tab-pane fade scroll" id="v-pills-2017" role="tabpanel" aria-labelledby="v-pills-2017-tab">
+                                <div class="tab-pane2 fade scroll" id="v-pills-2017" role="tabpanel" aria-labelledby="v-pills-2017-tab">
                                     <div>
                                         <p>
                                             <strong>20 novembre</strong><br>
@@ -226,7 +226,7 @@
                                     </div>
                                 </div>
                                 <!-- 2016 -->
-                                <div class="tab-pane fade scroll" id="v-pills-2016" role="tabpanel" aria-labelledby="v-pills-2016-tab">
+                                <div class="tab-pane2 fade scroll" id="v-pills-2016" role="tabpanel" aria-labelledby="v-pills-2016-tab">
                                     <div>
                                         <p>
                                             <strong>9 décembre</strong><br>
@@ -318,7 +318,7 @@
                                     </div>
                                 </div>
                                 <!-- 2015 -->
-                                <div class="tab-pane fade scroll" id="v-pills-2015" role="tabpanel" aria-labelledby="v-pills-2015-tab">
+                                <div class="tab-pane2 fade scroll" id="v-pills-2015" role="tabpanel" aria-labelledby="v-pills-2015-tab">
                                     <div>
                                         <p>
                                             <strong>21 octobre</strong><br>
@@ -429,7 +429,7 @@
                                     </div>
                                 </div>                                
                                 <!-- 2014 -->
-                                <div class="tab-pane fade scroll" id="v-pills-2014" role="tabpanel" aria-labelledby="v-pills-2014-tab">
+                                <div class="tab-pane2 fade scroll" id="v-pills-2014" role="tabpanel" aria-labelledby="v-pills-2014-tab">
                                     <div>
                                         <p>
                                             <strong>17 décembre</strong><br>
@@ -510,7 +510,7 @@
 
                                 </div>
                                 <!-- 2013 -->
-                                <div class="tab-pane fade scroll" id="v-pills-2013" role="tabpanel" aria-labelledby="v-pills-2013-tab">
+                                <div class="tab-pane2 fade scroll" id="v-pills-2013" role="tabpanel" aria-labelledby="v-pills-2013-tab">
                                     <div>
                                         <p>
                                             <strong>Date non communiqué</strong><br>
@@ -601,7 +601,7 @@
                                     </div>
                                 </div>
                                 <!-- 2012 -->
-                                <div class="tab-pane fade scroll" id="v-pills-2012" role="tabpanel" aria-labelledby="v-pills-2012-tab">
+                                <div class="tab-pane2 fade scroll" id="v-pills-2012" role="tabpanel" aria-labelledby="v-pills-2012-tab">
                                     <div>
                                         <p>
                                             <strong>8 mars</strong><br>
@@ -629,7 +629,7 @@
                                     </div>
                                 </div>
                                 <!-- Archive -->
-                                <div class="tab-pane fade scroll" id="v-pills-archive" role="tabpanel" aria-labelledby="v-pills-archive-tab">
+                                <div class="tab-pane2 fade scroll" id="v-pills-archive" role="tabpanel" aria-labelledby="v-pills-archive-tab">
                                     <div>
                                         <p>
                                             <strong>2015-2016</strong><br>
