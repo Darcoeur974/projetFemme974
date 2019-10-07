@@ -113,11 +113,15 @@ section {
 
 /* ----------- Header ----------- */
 
+.fas {
+    color: var(--rose);
+}
+
 .bandeau {
     background: url("../img/carousel/bgimgV05.jpg");
 }
 
-.bandeau div {
+.bandeau .information {
     background-color: rgba(0, 0, 0, .7);
     margin: 0;
     padding: 0;
@@ -197,9 +201,74 @@ section {
     }
 }
 
-small {
+.bandeau small {
     color: white;
     text-shadow: 3px 3px 3px var(--roseFoncee)
+}
+
+.bandeau>.btn {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.icone {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    bottom: -20%;
+    color: var(--rose);
+}
+
+.icone h4 {
+    margin-bottom: -25px;
+}
+
+.middle {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.mouse {
+    width: 100px;
+    height: 180px;
+    border: 4px solid var(--roseFoncee);
+    border-radius: 60px;
+    box-shadow: 0 0 5px var(--roseFoncee);
+    background-color: rgba(179, 43, 133, 0.2);
+}
+
+.mouse::before {
+    content: "";
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 10px;
+    background: var(--roseFoncee);
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    opacity: 1;
+    animation: mouse 2s infinite;
+}
+
+@keyframes mouse {
+    0%,
+    15% {
+        opacity: 1;
+        top: 30px;
+    }
+    90% {
+        opacity: 0.1;
+        top: 100px;
+    }
+    100% {
+        opacity: 0;
+        top: 100px;
+    }
 }
 
 
@@ -277,6 +346,17 @@ footer a:hover {
 
 /* ----------- CONTENU ----------- */
 
+.btn {
+    background-color: var(--vertFoncee);
+    padding: 5px;
+}
+
+.btn:hover {
+    background-color: var(--vert);
+    border: .5px solid var(--vertFoncee);
+    padding: 5px;
+}
+
 .contenu_carte {
     position: relative;
     min-height: 100vh;
@@ -296,7 +376,7 @@ footer a:hover {
 
 .contenu_carte .col-9 {
     background-color: rgb(223, 255, 219);
-    height: 100%;
+    height: 100%;        
 }
 
 .contenu_carte .nav-link {
@@ -348,7 +428,7 @@ footer a:hover {
     padding: 0;
 }
 
-.card-body .row {
+.card-body>.row {
     height: 550px;
 }
 
