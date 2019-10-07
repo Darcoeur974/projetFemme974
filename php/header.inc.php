@@ -18,11 +18,8 @@
           <h1>Femmes <strong class="animation">974</strong></h1>
           <small>"Ne laissez jamais vos peurs vous empêcher de faire ce que vous savez juste"<strong>Aung San Suu Kyi</strong></small>
           <div class="icone">
-            <!--<h4>Info suplémentaire</h4>
-            <i class="fas fa-sort-down fa-5x"></i>-->
             <div class="middle">
               <div class="mouse">
-                
               </div>
             </div>
           </div>
@@ -32,7 +29,7 @@
   <button onclick="topFunction()" id="top" title="Go to top">Retour en haut</button>
 
   <script>
-    //Get the button:
+    /*//Get the button:
     mybutton = document.getElementById("top");
 
     // When the user scrolls down 20px from the top of the document, show the button
@@ -50,6 +47,6 @@
     function topFunction() {
       document.body.scrollTop = 0; // For Safari
       document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-    }
+    }*/
   </script>
 </header>
